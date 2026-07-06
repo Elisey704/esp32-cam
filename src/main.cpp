@@ -4,8 +4,8 @@
 #include "camera_pins.h"
 
 // Настройки Wi-Fi
-const char* ssid = "d";
-const char* password = "12345678";
+const char* ssid = "имя сети";
+const char* password = "пароль";
 
 // Порт сервера
 WiFiServer server(80);
